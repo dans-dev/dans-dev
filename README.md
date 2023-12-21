@@ -1,16 +1,47 @@
-### Hi there 👋
+<div align="center">
+  <img height="180" src="https://avatars.githubusercontent.com/u/36234004"  />
+</div>
 
-<!--
-**dans-dev/dans-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Daniel Nicholson</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">Software Engineer</h2>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">Hello! I'm Daniel Nicholson and I am from the United Kingdom! I am currently studying an MSci in Software Engineering at Lancaster University. I enjoy working on my own projects and engaging with groups. I'm passionate about learning and spend a lot of time researching things for my studies and personal projects. I love to help out and give support where I can, so do not hesitate to contact me with any queries or issues. If you find any bugs in my projects, please report them so I can improve my work!<br><br><br>🎓 I am studying an MSci in Software Engineering at Lancaster University <br><br>🏠 I currently live in Lancaster, United Kingdom <br><br>💡 I am willing to learn and always up for a challenge <br><br>🎮 I enjoy playing Team Fortress 2 and Minecraft <br><br>🗣️ I speak English and am learning German<br><br> </p>
+  
+###
+
+<h3 align="center">🛠 Languages and Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<p align="center">Feel free to take a look at some of my work!<br>Also, don't hesitate to contact me!</p>
